@@ -1,4 +1,4 @@
-/*! zeheng - v0.0.1 - 2013-05-12
+/*! zeheng - v0.0.1 - 2013-05-24
 * https://github.com/ishida83/zeheng
 * Copyright (c) 2013 cleverliz; Licensed MIT */
 
