@@ -33,9 +33,9 @@ inner.html
 inner2.html
 index2.html
 index.html
-//www.google-analytics.com/analytics.js
-//wpa.qq.com
-//pub.idqqimg.com
+http://www.google-analytics.com/analytics.js
+http://wpa.qq.com
+http://pub.idqqimg.com
 
 FALLBACK:
 inner.html	404.html
