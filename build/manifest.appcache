@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-# v1.106210 201305260301
+# v1.1062101 201305260301
 
 # Explicitly cached 'master entries'.
 CACHE:
@@ -32,6 +32,12 @@ img/partner/127.jpg
 img/partner/title-menu.gif
 img/partner/lear.jpg
 img/partner/pd-council.jpg
+img/partner/partner-7.jpg
+img/partner/partner-8.jpg
+img/zeheng-honor-2.png
+img/zeheng-honor-3.png
+img/zeheng-honor-4.png
+img/zeheng-honor-5.png
 
 # Resources that require the user to be online.
 NETWORK:
