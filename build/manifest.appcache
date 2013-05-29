@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-# v1.1062 201305260301
+# v1.106210 201305260301
 
 # Explicitly cached 'master entries'.
 CACHE:
@@ -18,7 +18,7 @@ img/icon/save-dark.png
 img/icon/tel-dark.png
 img/icon_follow.png
 img/logo.png
-img/partner.png
+img/zeheng-honor.png
 img/section-link.png
 img/slide/slide1.jpg
 img/slide/slide2.jpg
@@ -26,6 +26,12 @@ img/slide/slide3.jpg
 img/slide/slide4.jpg
 img/slogan.png
 img/tel.png
+img/partner/11111.jpg
+img/partner/125.jpg
+img/partner/127.jpg
+img/partner/title-menu.gif
+img/partner/lear.jpg
+img/partner/pd-council.jpg
 
 # Resources that require the user to be online.
 NETWORK:
@@ -33,9 +39,9 @@ inner.html
 inner2.html
 index2.html
 index.html
-http://www.google-analytics.com/analytics.js
-http://wpa.qq.com
-http://pub.idqqimg.com
+//www.google-analytics.com/analytics.js
+//wpa.qq.com
+//pub.idqqimg.com
 
 FALLBACK:
 inner.html	404.html
