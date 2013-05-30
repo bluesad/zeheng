@@ -1,0 +1,55 @@
+﻿CACHE MANIFEST
+# v1.10621011 201305260301
+
+# Explicitly cached 'master entries'.
+CACHE:
+favicon.ico
+apple-touch-icon.png
+404.html
+css/homepage.min.css
+js/zeheng.min.js
+img/btns_bg.png
+img/icon/addr-dark.png
+img/icon/edit-dark.png
+img/icon/email-dark.png
+img/icon/page-dark.png
+img/icon/play-dark.png
+img/icon/save-dark.png
+img/icon/tel-dark.png
+img/icon_follow.png
+img/logo.png
+img/section-link.png
+img/slide/slide1.jpg
+img/slide/slide2.jpg
+img/slide/slide3.jpg
+img/slide/slide4.jpg
+img/slogan.png
+img/tel.png
+img/partner/11111.png
+img/partner/125.png
+img/partner/127.png
+img/partner/title-menu.png
+img/partner/lear.png
+img/partner/pd-council.png
+img/partner/partner-7.png
+img/partner/partner-8.png
+img/zeheng-honor.png
+img/zeheng-honor-2.png
+img/zeheng-honor-3.png
+img/zeheng-honor-4.png
+
+# Resources that require the user to be online.
+NETWORK:
+inner.html
+inner2.html
+index2.html
+index.html
+//www.google-analytics.com/analytics.js
+//wpa.qq.com
+//pub.idqqimg.com
+
+FALLBACK:
+inner.html	404.html
+inner2.html 404.html
+index2.html	404.html
+index.html	404.html
