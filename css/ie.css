@@ -61,7 +61,13 @@ footer {
 
 /*********/
 
+<<<<<<< HEAD
 * a:active,* a:focus{outline: none;}
+=======
+* a:active, * a:focus {
+  outline: none;
+}
+>>>>>>> 4e3d47d089125ced2ba6115a88ca9a4993c2aba7
 
 
 .lt-ie9 body {
@@ -74,7 +80,11 @@ footer {
 }
 
   .lt-ie9 .bx-wrapper .bx-pager.bx-default-pager a:hover,
+<<<<<<< HEAD
   .lt-ie9 .bx-wrapper .bx-pager.bx-default-pager a.active {    
+=======
+  .lt-ie9 .bx-wrapper .bx-pager.bx-default-pager a.active {
+>>>>>>> 4e3d47d089125ced2ba6115a88ca9a4993c2aba7
     background: #fff url(../img/slide/slide.gif) no-repeat;
     background-position: -15px 0;
   }
@@ -132,11 +142,22 @@ footer {
   }
 
 
+<<<<<<< HEAD
+=======
+.lt-ie7 .bx-wrapper .bx-viewport {
+  _margin-bottom: -5px;
+}
+
+>>>>>>> 4e3d47d089125ced2ba6115a88ca9a4993c2aba7
 .lt-ie7 .bx-wrapper .bx-pager {
   _text-align: right;
   _font-size: 0;
   _text-indent: -333px;
+<<<<<<< HEAD
   _padding-top: 20px;
+=======
+  /*_padding-top: 20px;*/
+>>>>>>> 4e3d47d089125ced2ba6115a88ca9a4993c2aba7
   _width: 100%;
   _overflow: hidden;
   _color: #666;
