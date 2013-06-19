@@ -160,6 +160,6 @@ module.exports = function (grunt) {
     // Default task.
     grunt.registerTask('default', ['copy', 'concat', 'uglify', 'cssmin', 'htmlmin', 'clean']);
     grunt.registerTask('build', ['copy', 'jshint', 'qunit', 'concat', 'uglify', 'cssmin', 'htmlmin', 'clean', 'watch']);
-    grunt.registerTask('sodaliz', ['copy', 'jshint', 'qunit', 'concat','uglify', 'cssmin:combine','clean']);
+    grunt.registerTask('product', ['copy', 'jshint', 'qunit', 'concat', 'uglify', 'cssmin', 'htmlmin', 'clean']);
 
 };
