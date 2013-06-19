@@ -1,7 +1,13 @@
-travis: {
-  dest: "./.travis.yml",
-  language: "node_js",
-  node_js: [0.10.5,0.8],
-  before_script:"npm install -g grunt-cli",
-  validate: true
-}
+language: node_js
+node_js:
+  - "0.10"
+before_script:
+  - "npm install -g grunt-cli"
+  - "npm install"
+# whitelist
+branches:
+  only:
+    - master
+notifications:
+  email:
+    - webmaster@joe1cafe.com  
